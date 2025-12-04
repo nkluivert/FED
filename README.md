@@ -89,7 +89,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ Voor het voortgangsgesprek had ik alleen het breakdown schets uitgewerkt van de homepage van youtube.
 
 
   ### Agenda voor meeting
@@ -105,11 +105,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  - De articles moeten in sections (kans om de site toegankelijker te maken door de headings van de sections te gebruiken)
+  - Het grote menu aan de linkerkant wordt een grote nav met allemaal ul's
 </details>
 
 
@@ -138,9 +135,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Mobiele scherm als prioriteit stellen
+  - De <p> in een span zetten zodat ik het makkelijker kan positioneren
+  - 
 - ...
 
 </details>
