@@ -119,8 +119,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Voor het voortgangsgesprek had ik de tweede pagina breakdown schets afgemaakt en de eerste code uitgeschreven van de startpagina
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -135,7 +134,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Mobiele scherm als prioriteit stellen
+  - Mobiele scherm als prioriteit stellen (ik had mijn breakdown schetsen gebaseerd op de desktop versies)
   - De <p> in een span zetten zodat ik het makkelijker kan positioneren
   - 
 - ...
@@ -166,8 +165,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik heb beide html codes al uitgeschreven, ik had alleen nog problemen met de flexboxes om de shorts deel de vormgeven op de start pagina
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -182,7 +180,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
+  - voor de shortspagina ipv articles ul's gebruiken. omdat de grid pakte de h2 mee en daardoor klopte de indeling niet meer.
   - punt 2
   - nog een punt
   - ...
