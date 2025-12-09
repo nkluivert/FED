@@ -58,6 +58,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - Als je op de site komt krijg je als een van de eerste opties om de navigatie over te slaan bij Voice-over
+  - Het is mogelijk om de hele site te navigeren met je toetsenbord
+  - html code is niet valid
+    
 
 </details>
 
@@ -92,16 +96,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Voor het voortgangsgesprek had ik alleen het breakdown schets uitgewerkt van de homepage van youtube.
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
@@ -120,16 +114,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
 Voor het voortgangsgesprek had ik de tweede pagina breakdown schets afgemaakt en de eerste code uitgeschreven van de startpagina
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -152,6 +136,11 @@ Voor het voortgangsgesprek had ik de tweede pagina breakdown schets afgemaakt en
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  
+  - De site is niet helemaal toegankelijk om met toetsenbord te navigeren(het selecteerd alleen de elementen die ik heb gelinkt)
+    het leest de h2's niet op die ik in de articles heb staan
+  - 
+    
 
 </details>
 
@@ -166,16 +155,6 @@ Voor het voortgangsgesprek had ik de tweede pagina breakdown schets afgemaakt en
 
   ### Stand van zaken
 Ik heb beide html codes al uitgeschreven, ik had alleen nog problemen met de flexboxes om de shorts deel de vormgeven op de start pagina
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
