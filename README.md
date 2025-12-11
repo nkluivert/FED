@@ -204,7 +204,7 @@ Ik heb beide html codes al uitgeschreven, ik had alleen nog problemen met de fle
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. [bron 1](https://chatgpt.com/share/693b0adf-dd90-800f-927c-e68a47dfc47b)
   2. bron 2
   3. ...
 
