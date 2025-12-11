@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  responsive 
+  Surface plane 
  
 </details>
 
@@ -180,7 +180,15 @@ Ik heb beide html codes al uitgeschreven, ik had alleen nog problemen met de fle
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+Tijdens dit project heb ik veel nieuwe dingen geleerd. Zo ontdekte ik hoe je met HTML, CSS en JavaScript een werkend hamburgermenu kunt maken. In het begin vond ik het best ingewikkeld, maar stap voor stap begon ik te begrijpen hoe de onderdelen samenwerken.
+
+Ook leerde ik verschillende animaties toe te passen, zoals scale en rotate. Door daarmee te experimenteren, merkte ik hoe kleine bewegingen een website veel levendiger kunnen maken.
+
+Daarnaast heb ik uitgezocht hoe je light en dark mode toevoegt aan een website. Het was interessant om te zien hoe je met een paar slimme aanpassingen de hele sfeer van een pagina kunt veranderen.
+
+Tot slot heb ik geleerd hoe je CSS Grid gebruikt. Daarmee kun je op een overzichtelijke manier layouts maken die er zowel strak als flexibel uitzien.
+
+Al met al heb ik veel nieuwe kennis opgedaan die ik straks in andere projecten kan gebruiken.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
