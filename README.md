@@ -176,27 +176,29 @@ Ik heb beide html codes al uitgeschreven, ik had alleen nog problemen met de fle
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/homepage.jpg" width="375px" alt="Homepage">
+  <img src="readme-images/playscreen.jpg" width="375px" alt="Playscreen">
+  
 
 
   ### Dit ging goed/Heb ik geleerd: 
 Tijdens dit project heb ik veel nieuwe dingen geleerd. Zo ontdekte ik hoe je met HTML, CSS en JavaScript een werkend hamburgermenu kunt maken. In het begin vond ik het best ingewikkeld, maar stap voor stap begon ik te begrijpen hoe de onderdelen samenwerken.
-
-Ook leerde ik verschillende animaties toe te passen, zoals scale en rotate. Door daarmee te experimenteren, merkte ik hoe kleine bewegingen een website veel levendiger kunnen maken.
-
+<img src="readme-images/hamburgermenu-grid.jpg" width="375px" alt="Hamburgermenu & grid">
+Ook heb ik geleerd hoe je CSS Grid gebruikt. Daarmee kun je op een overzichtelijke manier layouts maken die er zowel strak als flexibel uitzien.
+ <img src="readme-images/dark-lightmode.jpg" width="375px" alt="Dark & light mode">
 Daarnaast heb ik uitgezocht hoe je light en dark mode toevoegt aan een website. Het was interessant om te zien hoe je met een paar slimme aanpassingen de hele sfeer van een pagina kunt veranderen.
-
-Tot slot heb ik geleerd hoe je CSS Grid gebruikt. Daarmee kun je op een overzichtelijke manier layouts maken die er zowel strak als flexibel uitzien.
+<img src="readme-images/animations.jpg" width="375px" alt="Animations">
+Tot slot leerde ik verschillende animaties toe te passen, zoals scale en rotate. Door daarmee te experimenteren, merkte ik hoe kleine bewegingen een website veel levendiger kunnen maken.
 
 Al met al heb ik veel nieuwe kennis opgedaan die ik straks in andere projecten kan gebruiken.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+ 
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+Wat ik nog graag had willen toepassen, maar wat niet helemaal is gelukt, is de mogelijkheid om het lettertype op de hele website aan te passen. Ik heb dit geprobeerd te maken, maar uiteindelijk veranderde alleen het lettertype in het hamburgermenu, en niet op de rest van de pagina.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+Ook had ik graag custom themes aan de website toegevoegd, maar daar ben ik helaas niet meer aan toegekomen.
 </details>
 
 
@@ -213,7 +215,7 @@ Al met al heb ik veel nieuwe kennis opgedaan die ik straks in andere projecten k
   Nb. Vermeld de bronnen ook in je code.
 
   1. [bron 1](https://chatgpt.com/share/693b0adf-dd90-800f-927c-e68a47dfc47b)
-  2. bron 2
-  3. ...
+  2. bron 2 https://dlo.mijnhva.nl/content/enforced/690110-FDMCI-CRS-00042507/FED%2025-26%20-%20Blok%202%20-%20Intro%20kleurtjes%20met%20has%20en%20lightdark.pdf
+  3. bron 3 https://codepen.io/shooft/pen/gbaKMMe
 
 </details>
